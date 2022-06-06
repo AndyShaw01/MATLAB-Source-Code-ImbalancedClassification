@@ -1,4 +1,10 @@
- MATLAB-Source-Code-ImbalancedClassification
+# MATLAB-Source-Code-ImbalancedClassification
 
- - Add WENN
+## Method
 
+### SMOTE-WENN
+- Locate.m
+- SMOTE.m
+- SmoteWENN.m
+- VDM.m
+- WENN.m
